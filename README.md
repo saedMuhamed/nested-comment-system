@@ -27,3 +27,5 @@ ________________________________________________________
 In the enviromental Variables 
 
 change Your to the database url 
+
+DATABASE
