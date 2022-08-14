@@ -19,3 +19,5 @@ for the Front-end
 `npm start `
 
 fot the backend
+
+`nodemon 
