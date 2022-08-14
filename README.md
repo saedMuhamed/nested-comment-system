@@ -25,3 +25,5 @@ fot the backend
 ________________________________________________________
 
 In the enviromental Variables 
+
+change Your to the database url 
