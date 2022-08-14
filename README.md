@@ -18,4 +18,4 @@ for the Front-end
 
 `npm start `
 
-fot the 
+fot the backend
