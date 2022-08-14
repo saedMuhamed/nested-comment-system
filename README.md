@@ -20,4 +20,4 @@ for the Front-end
 
 fot the backend
 
-`nodemon`
+`nodemon server.js`
