@@ -12,6 +12,8 @@ _______________________________________________________
 
 ### Usage 
 
-To run 
+To run use 
+
+for the Front-end
 
 `npm start `
