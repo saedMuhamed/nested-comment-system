@@ -21,3 +21,7 @@ for the Front-end
 fot the backend
 
 `nodemon server.js`
+
+________________________________________________________
+
+In the enviromental Variables 
