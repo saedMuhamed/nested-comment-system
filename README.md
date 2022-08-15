@@ -1,4 +1,4 @@
-# Nested comment System  prisma 
+# Nested comment System Using Prisma 
 
 ### this is how advanced comments work in modern apps 
 
