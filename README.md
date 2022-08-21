@@ -24,6 +24,6 @@ fot the backend
 
 ________________________________________________________
 
-In the environmental Variables  change You're to the database URL 
+In the environmental variables  change You're to the database URL  or .env File
 
 DATABASE_KEY= URL
