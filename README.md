@@ -26,4 +26,4 @@ ________________________________________________________
 
 In the environmental variables  change You're to the database URL  or .env File
 
-DATABASE_KEY= URL
+DATABASE_KEY= URL. 
